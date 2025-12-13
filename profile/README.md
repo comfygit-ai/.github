@@ -3,6 +3,7 @@
 <div align="center">
   <img width="2400" height="748" alt="katflow_cropped_3" src="https://github.com/user-attachments/assets/7647ee14-bc9a-418a-8142-e4ac7ea550e1" />
   <h3>Version, share, and orchestrate ComfyUI environments.</h3>
+  <h5>(formerly ComfyGit)</h5>
 </div>
 
 <br>
