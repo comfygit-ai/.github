@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github.com/comfyhub-org.png" width="200">
-  <h2>ComfyHub Org</h2>
+  <h2>Katflow</h2>
   <b>Open Source</b> tools to help you manage and deploy ComfyUI environments
 </div>
 
